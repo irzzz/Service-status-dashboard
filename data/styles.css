@@ -247,6 +247,19 @@
 }
 .fontawesome {
 }
+.starselected {
+  color:#FFC72A;
+}
+.button_move_selected {
+}
+.hint_text {
+  font-family:'Arial Regular', 'Arial';
+  font-style:italic;
+  font-size:12px;
+  color:#BCBCBC;
+}
+.events_selected {
+}
 .usecase {
 }
 .lable_with_indent {
